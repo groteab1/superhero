@@ -1,0 +1,27 @@
+body{
+    background-color: #000099;
+}
+h1 {
+    color: white;
+    font-size: 40px; 
+}
+h2 {
+    color:white;
+    font-size: 20px; 
+    margin-left: 20px;
+    text-align: center;
+}
+li{
+    color: white;
+    font-size: 15 px;
+    background: #b30000;
+}
+a {
+    color: black;
+}
+img {
+    margin-top: 10px;
+    display: inline;
+    float:left;
+    margin-right:40px;
+}
